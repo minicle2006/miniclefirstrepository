@@ -1,2 +1,3 @@
 # miniclefirstrepository
 dosomesimpletest
+hello minicle
